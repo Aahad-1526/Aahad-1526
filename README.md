@@ -1,6 +1,6 @@
-<img align="right" alt="hi my name is aahad" src="C:\Users\aahad\Downloads\Aahad Mev.png">
-<h2 align="left">Hi 👋! My name is Aahad Mev </h2>
-<h3>I'm a Beginner WEB DEVELOPER, from NIT HAMIRPUR</h3>
+![logo](https://github.com/Aahad-1526/Aahad-1526/blob/main/Aahad%20Mev.png)
+<h2 align="centre"> Hi 👋! My name is Aahad </h2>
+<h3 align="centre" color="grey">I'm a Beginner WEB DEVELOPER, from NIT HAMIRPUR</h3>
 
 ###
 
