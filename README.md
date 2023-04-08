@@ -1,3 +1,4 @@
+<img align="right" alt="hi my name is aahad" src=""C:\Users\aahad\Downloads\Aahad Mev.png"">
 <h2 align="left">Hi 👋! My name is Aahad Mev </h2>
 <h3>I'm a Beginner WEB DEVELOPER, from NIT HAMIRPUR</h3>
 
