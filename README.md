@@ -9,6 +9,7 @@
 </div>
 
 ###
+[![Aahad-1526's Web3 | Identity](https://stats.quine.sh/Aahad-1526/web3?theme=light)](https://quine.sh)
 
 <img align="right" height="150" src="https://4kwallpapers.com/images/walls/thumbs_3t/6484.jpg"  />
 
