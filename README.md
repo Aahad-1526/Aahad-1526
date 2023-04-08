@@ -1,4 +1,4 @@
-[![Aahad-1526's GitHub | Stats](https://stats.quine.sh/Aahad-1526/github?theme=light)](https://quine.sh)
+<div align ="centre">[![Aahad-1526's GitHub | Stats](https://stats.quine.sh/Aahad-1526/github?theme=light)](https://quine.sh)</div>
 
 <h2 align="left">Hi 👋! My name is Aahad Mev </h2>
 <h3>I'm a Beginner WEB DEVELOPER, from NIT HAMIRPUR</h3>
