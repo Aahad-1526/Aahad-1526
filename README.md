@@ -40,6 +40,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-[![Aahad-1526's Web3 | Identity](https://stats.quine.sh/Aahad-1526/web3?theme=light)](https://quine.sh)
 
 
