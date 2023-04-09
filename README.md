@@ -11,7 +11,7 @@ Hi, I'm Aahad student here at National Institute of Technology,Hamirpur (aka nit
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aahad mev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aahad mev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aahad-mev-73b893248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aahad mev" height="30" width="40" /></a>
 <a href="https://instagram.com/_aahad_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aahad_m" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/techno lover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techno lover" height="30" width="40" /></a>
 </p>
